@@ -25,9 +25,7 @@ Each advisory is stored in the /advisories directory and follows this format:
 
 Reporting a Vulnerability
 If you believe you've found a security vulnerability in any of our projects, please report it to us by:
-1. **Preferred** Using the [Avail Immunefi Bugbounty program](https://immunefi.com/bug-bounty/avail/information/) 
-2. Emailing us at: security@availproject.org
+1. Using the [Avail Immunefi Bugbounty program](https://immunefi.com/bug-bounty/avail/information) if your bug is in scope. 
+2. Emailing us at: security@availproject.org if your bug is not in scope. 
 
-Please DO NOT file a public issue for security vulnerabilities.
-
-## List of advisories
+Please DO NOT file an issue on GitHub or use any other channels for reporting security vulnerabilities.
